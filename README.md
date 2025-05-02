@@ -1,4 +1,4 @@
-# 1ACC0216--TB1-2025-1
+# 1ACC0216-TB1-2025-1
 
 Objetivo del trabajo: 
 
