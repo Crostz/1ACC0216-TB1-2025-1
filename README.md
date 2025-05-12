@@ -2,7 +2,7 @@
 
 Objetivo del trabajo: 
 
-El objetivo de este trabajo es realizar un análisis exploratorio sobre el dataset que se nos otorgo, de manera correcta y con buenos resultados.
+El objetivo de este trabajo es realizar un análisis exploratorio sobre el dataset que se nos otorgo, de manera correcta y con buenos resultados, esto involucra identificar datos faltantes o atípicos y tratarlos, para luego pasar a la etapa de visualización donde responderemos las preguntas de nuestro análisis, finalmente compartiremos los hallazgos obtenidos.
 
 Participantes:
 - Mark Alex Esquivel Cabrera
